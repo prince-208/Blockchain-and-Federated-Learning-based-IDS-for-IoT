@@ -1,8 +1,8 @@
-# BBB-FLIDS
+# Blockchain and Federated Learning nased IDS for IoT
 
-This repository contains BBB-FLIDS, Basic Blockchain-Based Federated Learning Intrusion Detection System.
+This repository contains Basic Blockchain-Based Federated Learning Intrusion Detection System.
 
-For detailed information about this project, please see [the report](report/main.pdf).
+
 
 
 # Setup
